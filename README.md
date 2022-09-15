@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Patrick-Muraya
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning Computer Science DEgree
+- 🌱 I’m currently learning Computer Science Degree
 - 💞️ I’m looking to collaborate on Software development tactics
 - 📫 How to reach me ....
 
